@@ -1,0 +1,5 @@
+name: LamaLobbys
+version: 1.0.0
+main: de.Moohsassin.LamaLobbys.LamaLobbys
+author: Moohsassin
+commands:
